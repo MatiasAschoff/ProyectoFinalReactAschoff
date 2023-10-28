@@ -7,7 +7,7 @@
 
 Se realizo un e-commerce de una tienda de ropa masculina. La misma cuenta con las siguientes pestañas: Home, Shop, Products y About.
 
-Esta es la entrega final del curso de React de Coder House.
+Esto en el marco de la entrega final del curso de React de Coder House.
 
 La página te permite seleccionar los productos que deseas comprar, agregarlos a un carrito y simular su compra obteniendo un código de la orden luego de completar un checkout.
 
@@ -24,6 +24,47 @@ Se uso las siguientes tecnologias en el proyecto:
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+## Tambien se uso:
+
+* [Formik](https://formik.org/)
+* [Yup](https://github.com/jquense/yup)
+* [Sweet Alert 2](https://sweetalert2.github.io/)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+<p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
+
+## Para Comenzar:
+
+A continuacion se datallara una lista de dependecias y/o requisitos para poder comenzar a utilizar este proyecto.
+
+### Requisitos minimos
+
+Debera tener previamente instalado:
+
+* Git
+* Node.js
+* Terminal preferida
+### Instalación
+
+_Los pasos a seguir para realizar la instalacion correcta del proyecto._
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/MatiasAschoff/ProyectoFinalReactAschoff
+   ```
+2. Navegar a la ruta del proyecto
+    ```sh
+   cd nikos
+   ```
+3. Ubicado en la ruta del proyecto
+   ```sh
+   npm install
+   ```
+4. Ejecutar el siguiente comando
+   ```sh
+   npm start
+   ```
+5. La aplicacion estara lista en el navegador en http://localhost:3000
 
 <p align="right">(<a href="#readme-top">volver al inicio</a>)</p>
 
@@ -47,4 +88,5 @@ Se uso las siguientes tecnologias en el proyecto:
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
 
