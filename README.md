@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-  <h1 align="center">NIKOS CLOTHING SOTRE</h1>
+  <h1 align="center">NIKOS CLOTHING STORE</h1>
 
 ## Acerca del proyecto
 
